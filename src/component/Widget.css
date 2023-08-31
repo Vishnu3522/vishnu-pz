@@ -1,0 +1,9 @@
+#box{
+    margin-left: 400px;
+    border-color: green;
+    border: 20px;
+    text-align: center;   
+}
+.content{
+    margin-top: 50px;
+}

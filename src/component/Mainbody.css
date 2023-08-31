@@ -1,0 +1,36 @@
+.heading-title{
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+}
+.m-img{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.btn4{    
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    height: 35px;
+ background-color: black;
+ color: white;
+}
+.widget-container{
+   background-color: #fec32b;
+}

@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    
+}
+.heading{
+    margin-top: 150px;
+    
+    color: black;
+    
+    font-size: 41px;
+    line-height: 1.2em;
+}
+.container p{
+    color: black;
+    margin: 0px 0px 14.4px;
+    font-size: 26px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+    
+}
+.btn3{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+   background-color: #f9690e;
+   color: white;
+   font-weight: bold;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   line-height: 1.5em;
+   height: 46px;
+   margin-right: 250px;
+}
+.icon{
+    height: auto;
+    width: 100%;
+
+}

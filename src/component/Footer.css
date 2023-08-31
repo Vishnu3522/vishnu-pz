@@ -1,0 +1,83 @@
+.footer{
+  background:rgb(17, 19, 46);
+}
+
+.footer .box-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap:1.5rem;
+}
+
+.footer .box-container .box{
+  padding:1rem 0;
+  flex:1 1 25rem;
+}
+
+.footer .box-container .box h3{
+  font-size: 2.5rem;
+  padding:.7rem 0;
+  color:#fff;
+}
+.footer .box-container .box h4{
+  font-size: 2.5rem;
+  padding:.7rem 0;
+  color:#fff;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+
+.footer .box-container .box p{
+  font-size:medium;
+  padding:.7rem 0;
+  color:#eee;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+.footer .box-container .box a{
+  display: block;
+  font-size: 1.5rem;
+  padding:.7rem 0;
+  color:#eee;
+  font-size: small;
+  margin-left: 120px;
+}
+
+.footer .box-container .box a:hover{
+  color:yellow
+}
+
+.footer .credit{
+  text-align: center;
+  padding:2rem 1rem;
+  margin-top: 1rem;
+  font-size: 2rem;
+  font-weight: normal;
+  color:#fff;
+  border-top: .1rem solid rgba(255,255,255,.2);
+}
+
+.footer .credit span{
+  color:var(--orange);
+} 
+.quick{
+  color: #fff;
+  margin-right: 5px;
+}
+.link a{
+  font-size: small;
+}
+.footer .footer-img{
+  margin-top: 60px;
+  margin-left: 50px;
+}
+.copy{
+  color: #fff;
+  text-align: center;
+}
+hr{
+  color: #eee;
+}
+#lit{
+  color: #fff;
+}

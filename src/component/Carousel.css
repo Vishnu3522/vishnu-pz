@@ -1,0 +1,17 @@
+.c-head{
+    text-align: center;
+    margin-top: 60px;
+}
+.c-body{
+    background-color:  #f3f7fc
+}
+#c-img{
+    height: 30%;width: 17%;
+}
+#c-text{
+    text-align: center;
+    font-size: small;
+}
+#gap{
+    margin-top: 100px;
+}

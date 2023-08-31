@@ -1,0 +1,21 @@
+#end-h{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#end-b{
+    margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+background-color: #f9690E;
+color: aliceblue;
+border: none;
+height: 50px;
+width: 300px;
+}
+.end-d{
+    background-color: #f3f7fc;
+    margin-top: 80px;
+    align-items: center;
+    text-align: center;
+}

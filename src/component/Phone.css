@@ -1,0 +1,29 @@
+.head-p{
+    text-align: center;
+}
+.phone-img{
+    height: 40%;
+    width: 40%;
+}
+.img1{
+    height: 76px;
+    width: 75px;
+    margin: 20px;
+}
+.tb{
+    margin-left: 80px;
+
+}
+.tb1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; 
+}
+.phone{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.p-head{
+    text-align: center;
+}
